@@ -15,5 +15,4 @@ class Anagram
     matches_array
 
   end
-
 end
